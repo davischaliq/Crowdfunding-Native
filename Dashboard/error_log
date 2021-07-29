@@ -1,0 +1,182 @@
+[05-Apr-2021 19:24:00 Asia/Jakarta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/davh9453/public_html/app/function/function.php on line 79
+[05-Apr-2021 19:24:00 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/davh9453/public_html/app/views/header.php:73) in /home/davh9453/public_html/app/function/function.php on line 83
+[05-Apr-2021 19:24:00 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/davh9453/public_html/app/views/header.php:73) in /home/davh9453/public_html/Dashboard/user_das.php on line 6
+[05-Apr-2021 23:21:02 Asia/Jakarta] PHP Warning:  Undefined variable $result in /home/davh9453/public_html/app/views/dashboard/profile.php on line 13
+[05-Apr-2021 23:21:02 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/davh9453/public_html/app/views/dashboard/profile.php on line 13
+[05-Apr-2021 23:21:02 Asia/Jakarta] PHP Warning:  Undefined array key "email" in /home/davh9453/public_html/app/views/dashboard/profile.php on line 24
+[05-Apr-2021 23:23:44 Asia/Jakarta] PHP Warning:  Undefined variable $data in /home/davh9453/public_html/app/function/function.php on line 199
+[05-Apr-2021 23:23:44 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($var) must be of type Countable|array, null given in /home/davh9453/public_html/app/views/header.php:62
+Stack trace:
+#0 /home/davh9453/public_html/Dashboard/user_das.php(2): require_once()
+#1 {main}
+  thrown in /home/davh9453/public_html/app/views/header.php on line 62
+[05-Apr-2021 23:23:58 Asia/Jakarta] PHP Warning:  Undefined variable $data in /home/davh9453/public_html/app/function/function.php on line 199
+[05-Apr-2021 23:23:58 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($var) must be of type Countable|array, null given in /home/davh9453/public_html/app/views/header.php:62
+Stack trace:
+#0 /home/davh9453/public_html/Dashboard/user_das.php(2): require_once()
+#1 {main}
+  thrown in /home/davh9453/public_html/app/views/header.php on line 62
+[05-Apr-2021 23:33:10 Asia/Jakarta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/davh9453/public_html/app/function/function.php on line 98
+[05-Apr-2021 23:33:56 Asia/Jakarta] PHP Warning:  Undefined variable $data in /home/davh9453/public_html/app/function/function.php on line 204
+[05-Apr-2021 23:33:56 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($var) must be of type Countable|array, null given in /home/davh9453/public_html/app/views/header.php:62
+Stack trace:
+#0 /home/davh9453/public_html/Dashboard/user_das.php(2): require_once()
+#1 {main}
+  thrown in /home/davh9453/public_html/app/views/header.php on line 62
+[06-Apr-2021 00:54:39 Asia/Jakarta] PHP Warning:  Undefined variable $result in /home/davh9453/public_html/app/views/dashboard/profile.php on line 13
+[06-Apr-2021 00:54:39 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/davh9453/public_html/app/views/dashboard/profile.php on line 13
+[06-Apr-2021 00:54:39 Asia/Jakarta] PHP Warning:  Undefined array key "email" in /home/davh9453/public_html/app/views/dashboard/profile.php on line 24
+[06-Apr-2021 00:54:39 Asia/Jakarta] PHP Warning:  Undefined array key "user" in /home/davh9453/public_html/app/function/function.php on line 104
+[06-Apr-2021 00:54:39 Asia/Jakarta] PHP Warning:  Undefined variable $fullname in /home/davh9453/public_html/app/function/function.php on line 105
+[06-Apr-2021 00:54:39 Asia/Jakarta] PHP Warning:  Undefined variable $fullname in /home/davh9453/public_html/app/function/function.php on line 118
+[06-Apr-2021 00:54:39 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/davh9453/public_html/app/function/function.php on line 120
+[06-Apr-2021 00:56:25 Asia/Jakarta] PHP Warning:  Undefined variable $fullname in /home/davh9453/public_html/app/function/function.php on line 105
+[06-Apr-2021 00:56:25 Asia/Jakarta] PHP Warning:  Undefined variable $fullname in /home/davh9453/public_html/app/function/function.php on line 118
+[06-Apr-2021 00:57:37 Asia/Jakarta] PHP Warning:  Undefined variable $fullname in /home/davh9453/public_html/app/function/function.php on line 105
+[06-Apr-2021 00:57:37 Asia/Jakarta] PHP Warning:  Undefined variable $fullname in /home/davh9453/public_html/app/function/function.php on line 118
+[06-Apr-2021 00:58:42 Asia/Jakarta] PHP Warning:  Undefined variable $fullname in /home/davh9453/public_html/app/function/function.php on line 105
+[06-Apr-2021 00:58:42 Asia/Jakarta] PHP Warning:  Undefined variable $fullname in /home/davh9453/public_html/app/function/function.php on line 118
+[06-Apr-2021 00:59:13 Asia/Jakarta] PHP Warning:  Undefined variable $fullname in /home/davh9453/public_html/app/function/function.php on line 105
+[06-Apr-2021 00:59:13 Asia/Jakarta] PHP Warning:  Undefined variable $fullname in /home/davh9453/public_html/app/function/function.php on line 118
+[06-Apr-2021 00:59:32 Asia/Jakarta] PHP Warning:  Undefined variable $fullname in /home/davh9453/public_html/app/function/function.php on line 105
+[06-Apr-2021 00:59:32 Asia/Jakarta] PHP Warning:  Undefined variable $fullname in /home/davh9453/public_html/app/function/function.php on line 118
+[06-Apr-2021 00:59:47 Asia/Jakarta] PHP Warning:  Undefined variable $fullname in /home/davh9453/public_html/app/function/function.php on line 105
+[06-Apr-2021 00:59:47 Asia/Jakarta] PHP Warning:  Undefined variable $fullname in /home/davh9453/public_html/app/function/function.php on line 118
+[06-Apr-2021 01:01:09 Asia/Jakarta] PHP Warning:  Undefined variable $fullname in /home/davh9453/public_html/app/function/function.php on line 105
+[06-Apr-2021 01:01:09 Asia/Jakarta] PHP Warning:  Undefined variable $fullname in /home/davh9453/public_html/app/function/function.php on line 118
+[06-Apr-2021 01:01:59 Asia/Jakarta] PHP Warning:  Undefined variable $fullname in /home/davh9453/public_html/app/function/function.php on line 105
+[06-Apr-2021 01:01:59 Asia/Jakarta] PHP Warning:  Undefined variable $fullname in /home/davh9453/public_html/app/function/function.php on line 118
+[06-Apr-2021 01:08:16 Asia/Jakarta] PHP Warning:  Undefined variable $fullname in /home/davh9453/public_html/app/function/function.php on line 150
+[06-Apr-2021 01:10:21 Asia/Jakarta] PHP Warning:  Undefined variable $data in /home/davh9453/public_html/app/function/function.php on line 233
+[06-Apr-2021 01:10:21 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($var) must be of type Countable|array, null given in /home/davh9453/public_html/app/views/header.php:62
+Stack trace:
+#0 /home/davh9453/public_html/Dashboard/user_das.php(2): require_once()
+#1 {main}
+  thrown in /home/davh9453/public_html/app/views/header.php on line 62
+[06-Apr-2021 01:10:58 Asia/Jakarta] PHP Warning:  Undefined variable $data in /home/davh9453/public_html/app/function/function.php on line 233
+[06-Apr-2021 01:10:58 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($var) must be of type Countable|array, null given in /home/davh9453/public_html/app/views/header.php:62
+Stack trace:
+#0 /home/davh9453/public_html/Dashboard/user_das.php(2): require_once()
+#1 {main}
+  thrown in /home/davh9453/public_html/app/views/header.php on line 62
+[06-Apr-2021 01:11:42 Asia/Jakarta] PHP Warning:  Undefined variable $data in /home/davh9453/public_html/app/function/function.php on line 233
+[06-Apr-2021 01:11:42 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($var) must be of type Countable|array, null given in /home/davh9453/public_html/app/views/header.php:62
+Stack trace:
+#0 /home/davh9453/public_html/Dashboard/user_das.php(2): require_once()
+#1 {main}
+  thrown in /home/davh9453/public_html/app/views/header.php on line 62
+[06-Apr-2021 01:11:45 Asia/Jakarta] PHP Warning:  Undefined variable $data in /home/davh9453/public_html/app/function/function.php on line 233
+[06-Apr-2021 01:11:45 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($var) must be of type Countable|array, null given in /home/davh9453/public_html/app/views/header.php:62
+Stack trace:
+#0 /home/davh9453/public_html/Dashboard/user_das.php(2): require_once()
+#1 {main}
+  thrown in /home/davh9453/public_html/app/views/header.php on line 62
+[06-Apr-2021 13:46:23 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function updateProfile() in /home/davh9453/public_html/app/views/dashboard/profile.php:78
+Stack trace:
+#0 /home/davh9453/public_html/Dashboard/user_das.php(53): require_once()
+#1 {main}
+  thrown in /home/davh9453/public_html/app/views/dashboard/profile.php on line 78
+[06-Apr-2021 14:02:36 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/davh9453/public_html/app/function/function.php:118
+Stack trace:
+#0 /home/davh9453/public_html/app/function/function.php(118): mysqli_fetch_assoc()
+#1 /home/davh9453/public_html/app/views/dashboard/profile.php(78): updateProfile()
+#2 /home/davh9453/public_html/Dashboard/user_das.php(53): require_once('/home/davh9453/...')
+#3 {main}
+  thrown in /home/davh9453/public_html/app/function/function.php on line 118
+[06-Apr-2021 14:11:57 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/davh9453/public_html/Dashboard/user_das.php:16) in /home/davh9453/public_html/app/function/function.php on line 147
+[06-Apr-2021 14:12:04 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/davh9453/public_html/Dashboard/user_das.php:16) in /home/davh9453/public_html/app/function/function.php on line 147
+[06-Apr-2021 14:15:16 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/davh9453/public_html/Dashboard/user_das.php:16) in /home/davh9453/public_html/app/function/function.php on line 147
+[06-Apr-2021 14:18:48 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/davh9453/public_html/Dashboard/user_das.php:16) in /home/davh9453/public_html/app/function/function.php on line 147
+[06-Apr-2021 14:19:23 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/davh9453/public_html/Dashboard/user_das.php:16) in /home/davh9453/public_html/app/function/function.php on line 147
+[06-Apr-2021 14:19:30 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/davh9453/public_html/Dashboard/user_das.php:16) in /home/davh9453/public_html/app/function/function.php on line 147
+[06-Apr-2021 14:35:11 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/davh9453/public_html/Dashboard/user_das.php:16) in /home/davh9453/public_html/app/function/function.php on line 147
+[06-Apr-2021 14:35:24 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/davh9453/public_html/Dashboard/user_das.php:16) in /home/davh9453/public_html/app/function/function.php on line 147
+[06-Apr-2021 14:50:38 Asia/Jakarta] PHP Warning:  Undefined array key "full" in /home/davh9453/public_html/app/function/function.php on line 98
+[06-Apr-2021 14:50:38 Asia/Jakarta] PHP Warning:  Undefined array key "phone" in /home/davh9453/public_html/app/function/function.php on line 99
+[06-Apr-2021 14:50:38 Asia/Jakarta] PHP Warning:  Undefined array key "company" in /home/davh9453/public_html/app/function/function.php on line 100
+[06-Apr-2021 14:50:38 Asia/Jakarta] PHP Warning:  Undefined array key "company_address" in /home/davh9453/public_html/app/function/function.php on line 101
+[06-Apr-2021 14:50:38 Asia/Jakarta] PHP Warning:  Undefined array key "divition" in /home/davh9453/public_html/app/function/function.php on line 102
+[06-Apr-2021 14:51:11 Asia/Jakarta] PHP Warning:  Undefined array key "full" in /home/davh9453/public_html/app/function/function.php on line 98
+[06-Apr-2021 14:51:11 Asia/Jakarta] PHP Warning:  Undefined array key "phone" in /home/davh9453/public_html/app/function/function.php on line 99
+[06-Apr-2021 14:51:11 Asia/Jakarta] PHP Warning:  Undefined array key "company" in /home/davh9453/public_html/app/function/function.php on line 100
+[06-Apr-2021 14:51:11 Asia/Jakarta] PHP Warning:  Undefined array key "company_address" in /home/davh9453/public_html/app/function/function.php on line 101
+[06-Apr-2021 14:51:11 Asia/Jakarta] PHP Warning:  Undefined array key "divition" in /home/davh9453/public_html/app/function/function.php on line 102
+[06-Apr-2021 16:06:28 Asia/Jakarta] PHP Warning:  Undefined variable $result in /home/davh9453/public_html/app/views/dashboard/profile.php on line 13
+[06-Apr-2021 16:06:28 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/davh9453/public_html/app/views/dashboard/profile.php on line 13
+[06-Apr-2021 16:06:28 Asia/Jakarta] PHP Warning:  Undefined variable $result in /home/davh9453/public_html/app/views/dashboard/profile.php on line 14
+[06-Apr-2021 16:06:28 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/davh9453/public_html/app/views/dashboard/profile.php on line 14
+[06-Apr-2021 16:06:28 Asia/Jakarta] PHP Warning:  Undefined variable $result in /home/davh9453/public_html/app/views/dashboard/profile.php on line 17
+[06-Apr-2021 16:06:28 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/davh9453/public_html/app/views/dashboard/profile.php on line 17
+[06-Apr-2021 16:06:28 Asia/Jakarta] PHP Warning:  Undefined variable $result in /home/davh9453/public_html/app/views/dashboard/profile.php on line 19
+[06-Apr-2021 16:06:28 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/davh9453/public_html/app/views/dashboard/profile.php on line 19
+[06-Apr-2021 16:06:28 Asia/Jakarta] PHP Warning:  Undefined variable $result in /home/davh9453/public_html/app/views/dashboard/profile.php on line 22
+[06-Apr-2021 16:06:28 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/davh9453/public_html/app/views/dashboard/profile.php on line 22
+[06-Apr-2021 16:06:28 Asia/Jakarta] PHP Warning:  Undefined variable $result in /home/davh9453/public_html/app/views/dashboard/profile.php on line 24
+[06-Apr-2021 16:06:28 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/davh9453/public_html/app/views/dashboard/profile.php on line 24
+[06-Apr-2021 16:06:28 Asia/Jakarta] PHP Warning:  Undefined variable $result in /home/davh9453/public_html/app/views/dashboard/profile.php on line 25
+[06-Apr-2021 16:06:28 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/davh9453/public_html/app/views/dashboard/profile.php on line 25
+[06-Apr-2021 16:06:28 Asia/Jakarta] PHP Warning:  Undefined variable $result in /home/davh9453/public_html/app/views/dashboard/profile.php on line 28
+[06-Apr-2021 16:06:28 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/davh9453/public_html/app/views/dashboard/profile.php on line 28
+[06-Apr-2021 16:06:28 Asia/Jakarta] PHP Warning:  Undefined variable $result in /home/davh9453/public_html/app/views/dashboard/profile.php on line 30
+[06-Apr-2021 16:06:28 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/davh9453/public_html/app/views/dashboard/profile.php on line 30
+[06-Apr-2021 16:06:28 Asia/Jakarta] PHP Warning:  Undefined variable $result in /home/davh9453/public_html/app/views/dashboard/profile.php on line 33
+[06-Apr-2021 16:06:28 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/davh9453/public_html/app/views/dashboard/profile.php on line 33
+[07-Apr-2021 02:03:57 Asia/Jakarta] PHP Warning:  Undefined array key "user" in /home/davh9453/public_html/app/function/function.php on line 86
+[07-Apr-2021 02:03:57 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/davh9453/public_html/Dashboard/user_das.php on line 20
+[06-May-2021 21:34:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function showOrderAll() in /home/davh9453/public_html/app/views/dashboard/order.php:2
+Stack trace:
+#0 /home/davh9453/public_html/Dashboard/user_das.php(60): require_once()
+#1 {main}
+  thrown in /home/davh9453/public_html/app/views/dashboard/order.php on line 2
+[06-May-2021 21:35:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function showOrderAll() in /home/davh9453/public_html/app/views/dashboard/order.php:2
+Stack trace:
+#0 /home/davh9453/public_html/Dashboard/user_das.php(60): require_once()
+#1 {main}
+  thrown in /home/davh9453/public_html/app/views/dashboard/order.php on line 2
+[06-May-2021 21:35:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function showOrderAll() in /home/davh9453/public_html/app/views/dashboard/order.php:2
+Stack trace:
+#0 /home/davh9453/public_html/Dashboard/user_das.php(60): require_once()
+#1 {main}
+  thrown in /home/davh9453/public_html/app/views/dashboard/order.php on line 2
+[06-May-2021 21:35:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function showOrderAll() in /home/davh9453/public_html/app/views/dashboard/order.php:2
+Stack trace:
+#0 /home/davh9453/public_html/Dashboard/user_das.php(60): require_once()
+#1 {main}
+  thrown in /home/davh9453/public_html/app/views/dashboard/order.php on line 2
+[06-May-2021 21:40:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function showOrderAll() in /home/davh9453/public_html/app/views/dashboard/order.php:2
+Stack trace:
+#0 /home/davh9453/public_html/Dashboard/user_das.php(60): require_once()
+#1 {main}
+  thrown in /home/davh9453/public_html/app/views/dashboard/order.php on line 2
+[06-May-2021 21:40:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function showOrderAll() in /home/davh9453/public_html/app/views/dashboard/order.php:3
+Stack trace:
+#0 /home/davh9453/public_html/Dashboard/user_das.php(60): require_once()
+#1 {main}
+  thrown in /home/davh9453/public_html/app/views/dashboard/order.php on line 3
+[06-May-2021 21:40:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function showOrderAll() in /home/davh9453/public_html/app/views/dashboard/order.php:3
+Stack trace:
+#0 /home/davh9453/public_html/Dashboard/user_das.php(60): require_once()
+#1 {main}
+  thrown in /home/davh9453/public_html/app/views/dashboard/order.php on line 3
+[06-May-2021 21:40:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function showOrderAll() in /home/davh9453/public_html/app/views/dashboard/order.php:3
+Stack trace:
+#0 /home/davh9453/public_html/Dashboard/user_das.php(60): require_once()
+#1 {main}
+  thrown in /home/davh9453/public_html/app/views/dashboard/order.php on line 3
+[06-May-2021 21:42:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function showOrderAll() in /home/davh9453/public_html/app/views/dashboard/order.php:2
+Stack trace:
+#0 /home/davh9453/public_html/Dashboard/user_das.php(136): require_once()
+#1 {main}
+  thrown in /home/davh9453/public_html/app/views/dashboard/order.php on line 2
+[06-May-2021 21:44:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "BASEURL" in /home/davh9453/public_html/Dashboard/user_das.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/davh9453/public_html/Dashboard/user_das.php on line 25
+[06-May-2021 21:45:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "BASEURL" in /home/davh9453/public_html/Dashboard/user_das.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/davh9453/public_html/Dashboard/user_das.php on line 25
+[06-May-2021 21:45:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "BASEURL" in /home/davh9453/public_html/Dashboard/user_das.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/davh9453/public_html/Dashboard/user_das.php on line 25

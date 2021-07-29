@@ -1,0 +1,122 @@
+[02-Apr-2021 16:13:21 Asia/Jakarta] PHP Warning:  require_once(../app/lib/PHPMailer/sent.php): Failed to open stream: No such file or directory in /home/davh9453/public_html/app/function/function.php on line 43
+[02-Apr-2021 16:13:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Failed opening required '../app/lib/PHPMailer/sent.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/davh9453/public_html/app/function/function.php:43
+Stack trace:
+#0 /home/davh9453/public_html/regist/Signup.php(14): Regist()
+#1 {main}
+  thrown in /home/davh9453/public_html/app/function/function.php on line 43
+[02-Apr-2021 16:18:40 Asia/Jakarta] PHP Warning:  require_once(../app/lib/PHPMailer/sent.php): Failed to open stream: No such file or directory in /home/davh9453/public_html/app/function/function.php on line 43
+[02-Apr-2021 16:18:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Failed opening required '../app/lib/PHPMailer/sent.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/davh9453/public_html/app/function/function.php:43
+Stack trace:
+#0 /home/davh9453/public_html/regist/Signup.php(14): Regist()
+#1 {main}
+  thrown in /home/davh9453/public_html/app/function/function.php on line 43
+[02-Apr-2021 16:20:00 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "use" in /home/davh9453/public_html/app/lib/PHPMailer/sent.php on line 10
+[02-Apr-2021 16:23:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "PHPMailer" not found in /home/davh9453/public_html/app/lib/PHPMailer/sent.php:19
+Stack trace:
+#0 /home/davh9453/public_html/app/function/function.php(44): sent()
+#1 /home/davh9453/public_html/regist/Signup.php(14): Regist()
+#2 {main}
+  thrown in /home/davh9453/public_html/app/lib/PHPMailer/sent.php on line 19
+[02-Apr-2021 16:44:13 Asia/Jakarta] PHP Warning:  require_once(../app/src/PHPMailer.php): Failed to open stream: No such file or directory in /home/davh9453/public_html/app/lib/PHPMailer/sent.php on line 5
+[02-Apr-2021 16:44:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Failed opening required '../app/src/PHPMailer.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/davh9453/public_html/app/lib/PHPMailer/sent.php:5
+Stack trace:
+#0 /home/davh9453/public_html/app/function/function.php(44): sent()
+#1 /home/davh9453/public_html/regist/Signup.php(14): Regist()
+#2 {main}
+  thrown in /home/davh9453/public_html/app/lib/PHPMailer/sent.php on line 5
+[02-Apr-2021 16:45:47 Asia/Jakarta] PHP Warning:  require_once(../app/lib/src/PHPMailer.php): Failed to open stream: No such file or directory in /home/davh9453/public_html/app/lib/PHPMailer/sent.php on line 5
+[02-Apr-2021 16:45:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Failed opening required '../app/lib/src/PHPMailer.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/davh9453/public_html/app/lib/PHPMailer/sent.php:5
+Stack trace:
+#0 /home/davh9453/public_html/app/function/function.php(44): sent()
+#1 /home/davh9453/public_html/regist/Signup.php(14): Regist()
+#2 {main}
+  thrown in /home/davh9453/public_html/app/lib/PHPMailer/sent.php on line 5
+[02-Apr-2021 16:47:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "PHPMailer" not found in /home/davh9453/public_html/app/lib/PHPMailer/sent.php:28
+Stack trace:
+#0 /home/davh9453/public_html/app/function/function.php(44): sent()
+#1 /home/davh9453/public_html/regist/Signup.php(14): Regist()
+#2 {main}
+  thrown in /home/davh9453/public_html/app/lib/PHPMailer/sent.php on line 28
+[02-Apr-2021 16:56:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "SMTP" not found in /home/davh9453/public_html/app/lib/PHPMailer/sent.php:22
+Stack trace:
+#0 /home/davh9453/public_html/app/function/function.php(44): sent()
+#1 /home/davh9453/public_html/regist/Signup.php(14): Regist()
+#2 {main}
+  thrown in /home/davh9453/public_html/app/lib/PHPMailer/sent.php on line 22
+[02-Apr-2021 17:02:42 Asia/Jakarta] PHP Warning:  require_once(../lib/PHPMailer/sent.php): Failed to open stream: No such file or directory in /home/davh9453/public_html/app/function/function.php on line 43
+[02-Apr-2021 17:02:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Failed opening required '../lib/PHPMailer/sent.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/davh9453/public_html/app/function/function.php:43
+Stack trace:
+#0 /home/davh9453/public_html/regist/Signup.php(14): Regist()
+#1 {main}
+  thrown in /home/davh9453/public_html/app/function/function.php on line 43
+[02-Apr-2021 21:05:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function sent() in /home/davh9453/public_html/app/function/function.php:43
+Stack trace:
+#0 /home/davh9453/public_html/regist/Signup.php(14): Regist()
+#1 {main}
+  thrown in /home/davh9453/public_html/app/function/function.php on line 43
+[02-Apr-2021 21:08:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function sent() in /home/davh9453/public_html/app/function/function.php:43
+Stack trace:
+#0 /home/davh9453/public_html/regist/Signup.php(14): Regist()
+#1 {main}
+  thrown in /home/davh9453/public_html/app/function/function.php on line 43
+[02-Apr-2021 21:12:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function sent() in /home/davh9453/public_html/app/function/function.php:44
+Stack trace:
+#0 /home/davh9453/public_html/regist/Signup.php(14): Regist()
+#1 {main}
+  thrown in /home/davh9453/public_html/app/function/function.php on line 44
+[02-Apr-2021 21:14:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function Regist() in /home/davh9453/public_html/regist/Signup.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/davh9453/public_html/regist/Signup.php on line 14
+[02-Apr-2021 21:17:20 Asia/Jakarta] PHP Warning:  require_once(function/function.php): Failed to open stream: No such file or directory in /home/davh9453/public_html/app/init.php on line 4
+[02-Apr-2021 21:17:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Failed opening required 'function/function.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/davh9453/public_html/app/init.php:4
+Stack trace:
+#0 /home/davh9453/public_html/regist/Signup.php(2): require_once()
+#1 {main}
+  thrown in /home/davh9453/public_html/app/init.php on line 4
+[02-Apr-2021 21:40:04 Asia/Jakarta] PHP Warning:  require_once(../lib/PHPMailer/sent.php): Failed to open stream: No such file or directory in /home/davh9453/public_html/app/function/function.php on line 43
+[02-Apr-2021 21:40:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Failed opening required '../lib/PHPMailer/sent.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/davh9453/public_html/app/function/function.php:43
+Stack trace:
+#0 /home/davh9453/public_html/regist/Signup.php(14): Regist()
+#1 {main}
+  thrown in /home/davh9453/public_html/app/function/function.php on line 43
+[02-Apr-2021 23:23:09 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "use" in /home/davh9453/public_html/app/lib/PHPMailer/sent.php on line 6
+[02-Apr-2021 23:34:51 Asia/Jakarta] PHP Parse error:  syntax error, unexpected single-quoted string "&name=", expecting ")" in /home/davh9453/public_html/app/function/function.php on line 43
+[03-Apr-2021 00:10:00 Asia/Jakarta] PHP Warning:  require(../core/config.php): Failed to open stream: No such file or directory in /home/davh9453/public_html/app/function/sent.php on line 10
+[03-Apr-2021 00:10:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Failed opening required '../core/config.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/davh9453/public_html/app/function/sent.php:10
+Stack trace:
+#0 /home/davh9453/public_html/app/function/function.php(43): require_once()
+#1 /home/davh9453/public_html/regist/Signup.php(14): Regist()
+#2 {main}
+  thrown in /home/davh9453/public_html/app/function/sent.php on line 10
+[03-Apr-2021 00:12:04 Asia/Jakarta] PHP Warning:  require(app/core/config.php): Failed to open stream: No such file or directory in /home/davh9453/public_html/app/function/sent.php on line 10
+[03-Apr-2021 00:12:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Failed opening required 'app/core/config.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/davh9453/public_html/app/function/sent.php:10
+Stack trace:
+#0 /home/davh9453/public_html/app/function/function.php(43): require_once()
+#1 /home/davh9453/public_html/regist/Signup.php(14): Regist()
+#2 {main}
+  thrown in /home/davh9453/public_html/app/function/sent.php on line 10
+[03-Apr-2021 00:12:59 Asia/Jakarta] PHP Warning:  Constant BASEURL already defined in /home/davh9453/public_html/app/core/config.php on line 3
+[03-Apr-2021 00:12:59 Asia/Jakarta] PHP Warning:  Constant DB_HOST already defined in /home/davh9453/public_html/app/core/config.php on line 5
+[03-Apr-2021 00:12:59 Asia/Jakarta] PHP Warning:  Constant DB_USER already defined in /home/davh9453/public_html/app/core/config.php on line 6
+[03-Apr-2021 00:12:59 Asia/Jakarta] PHP Warning:  Constant DB_PASS already defined in /home/davh9453/public_html/app/core/config.php on line 7
+[03-Apr-2021 00:12:59 Asia/Jakarta] PHP Warning:  Constant CROUD_USER already defined in /home/davh9453/public_html/app/core/config.php on line 10
+[03-Apr-2021 00:12:59 Asia/Jakarta] PHP Warning:  Constant CROUD_CONTENT already defined in /home/davh9453/public_html/app/core/config.php on line 13
+[03-Apr-2021 00:12:59 Asia/Jakarta] PHP Warning:  Constant CROUD_TRANSAKSI already defined in /home/davh9453/public_html/app/core/config.php on line 16
+[03-Apr-2021 00:12:59 Asia/Jakarta] PHP Warning:  Constant CROUD_INVEST already defined in /home/davh9453/public_html/app/core/config.php on line 19
+[03-Apr-2021 00:12:59 Asia/Jakarta] PHP Warning:  require(../lib/PHPMailer/src/Exception.php): Failed to open stream: No such file or directory in /home/davh9453/public_html/app/function/sent.php on line 11
+[03-Apr-2021 00:12:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Failed opening required '../lib/PHPMailer/src/Exception.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/davh9453/public_html/app/function/sent.php:11
+Stack trace:
+#0 /home/davh9453/public_html/app/function/function.php(43): require_once()
+#1 /home/davh9453/public_html/regist/Signup.php(14): Regist()
+#2 {main}
+  thrown in /home/davh9453/public_html/app/function/sent.php on line 11
+[03-Apr-2021 00:13:57 Asia/Jakarta] PHP Warning:  require(../lib/PHPMailer/src/Exception.php): Failed to open stream: No such file or directory in /home/davh9453/public_html/app/function/sent.php on line 11
+[03-Apr-2021 00:13:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Failed opening required '../lib/PHPMailer/src/Exception.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/davh9453/public_html/app/function/sent.php:11
+Stack trace:
+#0 /home/davh9453/public_html/app/function/function.php(43): require_once()
+#1 /home/davh9453/public_html/regist/Signup.php(14): Regist()
+#2 {main}
+  thrown in /home/davh9453/public_html/app/function/sent.php on line 11
+[03-Apr-2021 00:15:54 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/davh9453/public_html/app/lib/PHPMailer/src/SMTP.php:282) in /home/davh9453/public_html/app/function/function.php on line 45
+[05-Apr-2021 18:50:24 Asia/Jakarta] PHP Parse error:  Unclosed '{' on line 49 in /home/davh9453/public_html/app/function/function.php on line 141
